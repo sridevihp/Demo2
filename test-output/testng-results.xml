@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="15" started-at="2018-01-15T12:38:11Z" finished-at="2018-01-15T12:38:11Z">
+  <suite name="Default suite" duration-ms="127" started-at="2018-01-15T13:08:59Z" finished-at="2018-01-15T13:08:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="15" started-at="2018-01-15T12:38:11Z" finished-at="2018-01-15T12:38:11Z">
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    <test name="Default test" duration-ms="127" started-at="2018-01-15T13:08:59Z" finished-at="2018-01-15T13:08:59Z">
+      <class name="gitDemostration.FirstGit">
+        <test-method status="PASS" signature="main()[pri:0, instance:gitDemostration.FirstGit@66d2e7d9]" name="main" duration-ms="39" started-at="2018-01-15T18:38:59Z" finished-at="2018-01-15T18:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- gitDemostration.FirstGit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -1,11 +1,14 @@
 package gitDemostration;
 
+import org.testng.annotations.Test;
+
 public class FirstGit {
 
-	public static void main(String[] args) {
+	@Test
+	public void main() {
 
 		System.out.println("***********Welcome to GIT!!!*******");
-		System.out.println("changes");
+	
 
 	}
 
