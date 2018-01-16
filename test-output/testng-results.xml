@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="99" started-at="2018-01-16T06:53:51Z" finished-at="2018-01-16T06:53:51Z">
+  <suite name="Default suite" duration-ms="36" started-at="2018-01-16T11:35:15Z" finished-at="2018-01-16T11:35:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="99" started-at="2018-01-16T06:53:51Z" finished-at="2018-01-16T06:53:51Z">
+    <test name="Default test" duration-ms="36" started-at="2018-01-16T11:35:15Z" finished-at="2018-01-16T11:35:15Z">
       <class name="gitDemostration.FirstGit">
-        <test-method status="PASS" signature="main()[pri:0, instance:gitDemostration.FirstGit@66d2e7d9]" name="main" duration-ms="24" started-at="2018-01-16T12:23:51Z" finished-at="2018-01-16T12:23:51Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:gitDemostration.FirstGit@66d2e7d9]" name="main" duration-ms="12" started-at="2018-01-16T17:05:15Z" finished-at="2018-01-16T17:05:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
       </class> <!-- gitDemostration.FirstGit -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
